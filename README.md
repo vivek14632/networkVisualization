@@ -1,2 +1,2 @@
-# networkVisualization
-Network visualization in R
+# Network Visualization
+Network visualization in R and Python
